@@ -1,0 +1,3519 @@
+Archivo: resultado_tequis_d.txt
+Ubicación: ./resultados/resultado_tequis_d.txt
+---------------------------------
+Archivo: error_log.txt
+Ubicación: ./resultados/error_log.txt
+---------------------------------
+Archivo: indice_completo.txt
+Ubicación: ./resultados/indice_completo.txt
+---------------------------------
+Archivo: cache.properties
+Ubicación: ./.gradle/buildOutputCleanup/cache.properties
+---------------------------------
+Archivo: buildOutputCleanup.lock
+Ubicación: ./.gradle/buildOutputCleanup/buildOutputCleanup.lock
+---------------------------------
+Archivo: fileHashes.lock
+Ubicación: ./.gradle/8.8/fileHashes/fileHashes.lock
+---------------------------------
+Archivo: fileHashes.bin
+Ubicación: ./.gradle/8.8/fileHashes/fileHashes.bin
+---------------------------------
+Archivo: last-build.bin
+Ubicación: ./.gradle/8.8/fileChanges/last-build.bin
+---------------------------------
+Archivo: checksums.lock
+Ubicación: ./.gradle/8.8/checksums/checksums.lock
+---------------------------------
+Archivo: gc.properties
+Ubicación: ./.gradle/8.8/dependencies-accessors/gc.properties
+---------------------------------
+Archivo: gc.properties
+Ubicación: ./.gradle/8.8/gc.properties
+---------------------------------
+Archivo: gc.properties
+Ubicación: ./.gradle/vcs-1/gc.properties
+---------------------------------
+Archivo: settings.gradle.kts
+Ubicación: ./settings.gradle.kts
+---------------------------------
+Archivo: lint.xml
+Ubicación: ./TeH/android_project_restructured_corrected/lint.xml
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/sticky-header-grid/build.gradle
+---------------------------------
+Archivo: StickyHeaderGridLayoutManager.java
+Ubicación: ./TeH/android_project_restructured_corrected/sticky-header-grid/src/main/java/com/codewaves/stickyheadergrid/StickyHeaderGridLayoutManager.java
+---------------------------------
+Archivo: StickyHeaderGridAdapter.java
+Ubicación: ./TeH/android_project_restructured_corrected/sticky-header-grid/src/main/java/com/codewaves/stickyheadergrid/StickyHeaderGridAdapter.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/sticky-header-grid/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: README.md
+Ubicación: ./TeH/android_project_restructured_corrected/sticky-header-grid/README.md
+---------------------------------
+Archivo: dependencies.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/dependencies.gradle.kts
+---------------------------------
+Archivo: Dockerfile
+Ubicación: ./TeH/android_project_restructured_corrected/reproducible-builds/Dockerfile
+---------------------------------
+Archivo: sources.list
+Ubicación: ./TeH/android_project_restructured_corrected/reproducible-builds/docker/sources.list
+---------------------------------
+Archivo: apt.conf
+Ubicación: ./TeH/android_project_restructured_corrected/reproducible-builds/docker/apt.conf
+---------------------------------
+Archivo: apkdiff.py
+Ubicación: ./TeH/android_project_restructured_corrected/reproducible-builds/apkdiff/apkdiff.py
+---------------------------------
+Archivo: README.md
+Ubicación: ./TeH/android_project_restructured_corrected/reproducible-builds/README.md
+---------------------------------
+Archivo: emojiproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/emojiproto.xml
+---------------------------------
+Archivo: NLUConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/NLUConfig.kt
+---------------------------------
+Archivo: UrlRender
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/UrlRender
+---------------------------------
+Archivo: MainConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/MainConfig.kt
+---------------------------------
+Archivo: child_item.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/child_item.xml
+---------------------------------
+Archivo: MessageDao.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/MessageDao.xml
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/strings.xml
+---------------------------------
+Archivo: fcmservice.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/fcmservice.xml
+---------------------------------
+Archivo: interviewdatacaptureactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/interviewdatacaptureactivity.kt
+---------------------------------
+Archivo: classes2.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/classes2.dex
+---------------------------------
+Archivo: TheAppGlideModule.java
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/TheAppGlideModule.java
+---------------------------------
+Archivo: main_activity.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/main_activity.xml
+---------------------------------
+Archivo: MainActivity.java
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/MainActivity.java
+---------------------------------
+Archivo: ic_launcher_background.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher_background.xml
+---------------------------------
+Archivo: StaticIpResolverTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/StaticIpResolverTest.kt
+---------------------------------
+Archivo: TranscodeTestActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/TranscodeTestActivity.kt
+---------------------------------
+Archivo: chatactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/chatactivity.kt
+---------------------------------
+Archivo: databaseproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/databaseproto.xml
+---------------------------------
+Archivo: UrlRenderer
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/UrlRenderer
+---------------------------------
+Archivo: ic_work_notification.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_work_notification.xml
+---------------------------------
+Archivo: ContactListViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactListViewModel.kt
+---------------------------------
+Archivo: Constants.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/Constants.kt
+---------------------------------
+Archivo: localarchiveproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/localarchiveproto.xml
+---------------------------------
+Archivo: ic_launcher-playstore.png
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher-playstore.png
+---------------------------------
+Archivo: ic_launcher_round.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher_round.xml
+---------------------------------
+Archivo: action_menu.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/action_menu.xml
+---------------------------------
+Archivo: MyApplication.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/MyApplication.xml
+---------------------------------
+Archivo: PlaybackTestViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/PlaybackTestViewModel.kt
+---------------------------------
+Archivo: AccountAuthenticatorService.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/AccountAuthenticatorService.kt
+---------------------------------
+Archivo: layout__layout_7.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/layout__layout_7.xml
+---------------------------------
+Archivo: UrlRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/UrlRenderer.java
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher_round.webp
+---------------------------------
+Archivo: libringrtc.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/libringrtc.so
+---------------------------------
+Archivo: layout_backgroundlayout.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/layout_backgroundlayout.xml
+---------------------------------
+Archivo: BotMainClass.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/BotMainClass.xml
+---------------------------------
+Archivo: activity_main.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/activity_main.xml
+---------------------------------
+Archivo: Theme.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/Theme.kt
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher.webp
+---------------------------------
+Archivo: ContactsSyncAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactsSyncAdapter.kt
+---------------------------------
+Archivo: FaceDetection_fixed.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/FaceDetection_fixed.xml
+---------------------------------
+Archivo: ic_refresh_20.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_refresh_20.xml
+---------------------------------
+Archivo: authenticator.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/authenticator.xml
+---------------------------------
+Archivo: admininterfaceactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/admininterfaceactivity.kt
+---------------------------------
+Archivo: settings.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/settings.gradle.kts
+---------------------------------
+Archivo: SpeechRecognitionClass.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/SpeechRecognitionClass.xml
+---------------------------------
+Archivo: devicenameproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/devicenameproto.xml
+---------------------------------
+Archivo: ic_redo_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_redo_black_24dp.xml
+---------------------------------
+Archivo: backupsproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/backupsproto.xml
+---------------------------------
+Archivo: TranscodeTestViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/TranscodeTestViewModel.kt
+---------------------------------
+Archivo: Type.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/Type.kt
+---------------------------------
+Archivo: ThemeStyles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ThemeStyles.xml
+---------------------------------
+Archivo: externalbackupsproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/externalbackupsproto.xml
+---------------------------------
+Archivo: ColorResources.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ColorResources.xml
+---------------------------------
+Archivo: ic_launcher.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher.xml
+---------------------------------
+Archivo: classes3.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/classes3.dex
+---------------------------------
+Archivo: styles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/styles.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/themes.xml
+---------------------------------
+Archivo: AppTheme.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/AppTheme.xml
+---------------------------------
+Archivo: ContactListActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactListActivity.kt
+---------------------------------
+Archivo: baseline.prof
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/baseline.prof
+---------------------------------
+Archivo: ic_work_notification.png
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_work_notification.png
+---------------------------------
+Archivo: InputSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/InputSelection.kt
+---------------------------------
+Archivo: DatabaseEntityUser.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/DatabaseEntityUser.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/colors.xml
+---------------------------------
+Archivo: Styles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/Styles.xml
+---------------------------------
+Archivo: libringrtc_rffi.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/libringrtc_rffi.so
+---------------------------------
+Archivo: ContactsSyncAdapterService.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactsSyncAdapterService.kt
+---------------------------------
+Archivo: classes4.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/classes4.dex
+---------------------------------
+Archivo: jobdataproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/jobdataproto.xml
+---------------------------------
+Archivo: interviewdatabasehelper.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/interviewdatabasehelper.xml
+---------------------------------
+Archivo: signal-library.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/signal-library.gradle.kts
+---------------------------------
+Archivo: StandardHitTestRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/StandardHitTestRenderer.java
+---------------------------------
+Archivo: libaesgcm.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/libaesgcm.so
+---------------------------------
+Archivo: parent_item.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/parent_item.xml
+---------------------------------
+Archivo: speechrecognizeractivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/speechrecognizeractivity.kt
+---------------------------------
+Archivo: syncadapter.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/syncadapter.xml
+---------------------------------
+Archivo: layout_conversationlayoutmanager.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/layout_conversationlayoutmanager.xml
+---------------------------------
+Archivo: ConfigurationSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ConfigurationSelection.kt
+---------------------------------
+Archivo: TranscodeTestRepository.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/TranscodeTestRepository.kt
+---------------------------------
+Archivo: DatabaseEntityConversation.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/DatabaseEntityConversation.xml
+---------------------------------
+Archivo: classes5.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/classes5.dex
+---------------------------------
+Archivo: classes6.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/classes6.dex
+---------------------------------
+Archivo: ConnectivityManager.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ConnectivityManager.xml
+---------------------------------
+Archivo: SlowDataSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/SlowDataSource.kt
+---------------------------------
+Archivo: ContactLookupViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactLookupViewModel.kt
+---------------------------------
+Archivo: ic_launcher_foreground.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher_foreground.xml
+---------------------------------
+Archivo: PUSBEC_YAML_Config.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/PUSBEC_YAML_Config.kt
+---------------------------------
+Archivo: StoriesConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/StoriesConfig.kt
+---------------------------------
+Archivo: PhoneAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/PhoneAdapter.kt
+---------------------------------
+Archivo: Color.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/Color.kt
+---------------------------------
+Archivo: AndroidManifest_fixed.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/AndroidManifest_fixed.xml
+---------------------------------
+Archivo: firebasemodel.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/firebasemodel.xml
+---------------------------------
+Archivo: TheAppGlideModule
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/TheAppGlideModule
+---------------------------------
+Archivo: OutputSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/OutputSelection.kt
+---------------------------------
+Archivo: proguard.cfg
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/proguard.cfg
+---------------------------------
+Archivo: baseline.profm
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/baseline.profm
+---------------------------------
+Archivo: activity_contact_lookup.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/activity_contact_lookup.xml
+---------------------------------
+Archivo: build.gradle.kts.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/build.gradle.kts.xml
+---------------------------------
+Archivo: PlaybackTestActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/PlaybackTestActivity.kt
+---------------------------------
+Archivo: DatabaseEntityMessage.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/DatabaseEntityMessage.xml
+---------------------------------
+Archivo: ktlint.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ktlint.gradle.kts
+---------------------------------
+Archivo: ContactsAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactsAdapter.kt
+---------------------------------
+Archivo: FaceDetection.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/FaceDetection.xml
+---------------------------------
+Archivo: databasehelper.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/databasehelper.xml
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/build.gradle.kts
+---------------------------------
+Archivo: UriRenderer
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/UriRenderer
+---------------------------------
+Archivo: libsignal_jni.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/libsignal_jni.so
+---------------------------------
+Archivo: mainactivitylayout.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/mainactivitylayout.kt
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher_round.png
+---------------------------------
+Archivo: paymentsproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/paymentsproto.xml
+---------------------------------
+Archivo: ic_flip_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_flip_black_24dp.xml
+---------------------------------
+Archivo: layout__layout_11.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/layout__layout_11.xml
+---------------------------------
+Archivo: ic_save_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_save_black_24dp.xml
+---------------------------------
+Archivo: MainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/MainActivity.kt
+---------------------------------
+Archivo: TranscodeWorker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/TranscodeWorker.kt
+---------------------------------
+Archivo: StandardHitTestRenderer
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/StandardHitTestRenderer
+---------------------------------
+Archivo: app_logo.png
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/app_logo.png
+---------------------------------
+Archivo: ContactLookupActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ContactLookupActivity.kt
+---------------------------------
+Archivo: ic_rotate_right_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_rotate_right_black_24dp.xml
+---------------------------------
+Archivo: Progress.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/Progress.kt
+---------------------------------
+Archivo: ExampleUnitTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ExampleUnitTest.kt
+---------------------------------
+Archivo: QrMainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/QrMainActivity.kt
+---------------------------------
+Archivo: LabeledButton.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/LabeledButton.kt
+---------------------------------
+Archivo: MessageAdapter.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/MessageAdapter.xml
+---------------------------------
+Archivo: imports
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/imports
+---------------------------------
+Archivo: AudioControlManager.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/AudioControlManager.xml
+---------------------------------
+Archivo: ic_rotate_left_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_rotate_left_black_24dp.xml
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_launcher.png
+---------------------------------
+Archivo: translations.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/translations.gradle
+---------------------------------
+Archivo: keyvalueproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/keyvalueproto.xml
+---------------------------------
+Archivo: backupproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/backupproto.xml
+---------------------------------
+Archivo: contactsformat.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/contactsformat.xml
+---------------------------------
+Archivo: activity_contact_list.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/activity_contact_list.xml
+---------------------------------
+Archivo: evaluationactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/evaluationactivity.kt
+---------------------------------
+Archivo: ExampleInstrumentedTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ExampleInstrumentedTest.kt
+---------------------------------
+Archivo: classes.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/classes.dex
+---------------------------------
+Archivo: layout_messagelayout.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/layout_messagelayout.xml
+---------------------------------
+Archivo: ChatRepository.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ChatRepository.xml
+---------------------------------
+Archivo: ic_check_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_check_black_24dp.xml
+---------------------------------
+Archivo: ic_undo_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_undo_black_24dp.xml
+---------------------------------
+Archivo: ic_crop_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/ic_crop_black_24dp.xml
+---------------------------------
+Archivo: UriRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/UriRenderer.java
+---------------------------------
+Archivo: LintConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/LintConfig.kt
+---------------------------------
+Archivo: DatabaseConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/app/DatabaseConfig.kt
+---------------------------------
+Archivo: proguard-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/app/proguard-rules.pro
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/build.gradle.kts
+---------------------------------
+Archivo: app_logo.png
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/drawable/app_logo.png
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/strings.xml
+---------------------------------
+Archivo: ThemeStyles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/ThemeStyles.xml
+---------------------------------
+Archivo: ColorResources.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/ColorResources.xml
+---------------------------------
+Archivo: styles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/styles.xml
+---------------------------------
+Archivo: AppTheme.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/AppTheme.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/colors.xml
+---------------------------------
+Archivo: Styles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/values/Styles.xml
+---------------------------------
+Archivo: layout__layout_7.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/layout/layout__layout_7.xml
+---------------------------------
+Archivo: layout_backgroundlayout.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/layout/layout_backgroundlayout.xml
+---------------------------------
+Archivo: layout_conversationlayoutmanager.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/layout/layout_conversationlayoutmanager.xml
+---------------------------------
+Archivo: layout__layout_11.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/layout/layout__layout_11.xml
+---------------------------------
+Archivo: layout_messagelayout.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/layout/layout_messagelayout.xml
+---------------------------------
+Archivo: UrlRender
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/UrlRender
+---------------------------------
+Archivo: StaticIpResolverTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/StaticIpResolverTest.kt
+---------------------------------
+Archivo: UrlRenderer
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/UrlRenderer
+---------------------------------
+Archivo: settings.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/settings.gradle.kts
+---------------------------------
+Archivo: signal-library.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/signal-library.gradle.kts
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/build.gradle
+---------------------------------
+Archivo: proguard-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/proguard-rules.pro
+---------------------------------
+Archivo: TheAppGlideModule
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/TheAppGlideModule
+---------------------------------
+Archivo: build.gradle.kts.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/build.gradle.kts.xml
+---------------------------------
+Archivo: ktlint.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/ktlint.gradle.kts
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/build.gradle.kts
+---------------------------------
+Archivo: UriRenderer
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/UriRenderer
+---------------------------------
+Archivo: StandardHitTestRenderer
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/StandardHitTestRenderer
+---------------------------------
+Archivo: imports
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/imports
+---------------------------------
+Archivo: translations.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/res/general/translations.gradle
+---------------------------------
+Archivo: AndroidManifest_fixed.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/AndroidManifest_fixed.xml
+---------------------------------
+Archivo: fcmservice.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/services/fcmservice.xml
+---------------------------------
+Archivo: SpeechRecognitionClass.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/services/SpeechRecognitionClass.xml
+---------------------------------
+Archivo: ConnectivityManager.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/services/ConnectivityManager.xml
+---------------------------------
+Archivo: AudioControlManager.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/services/AudioControlManager.xml
+---------------------------------
+Archivo: ChatRepository.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/services/ChatRepository.xml
+---------------------------------
+Archivo: emojiproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/emojiproto.xml
+---------------------------------
+Archivo: databaseproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/databaseproto.xml
+---------------------------------
+Archivo: localarchiveproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/localarchiveproto.xml
+---------------------------------
+Archivo: devicenameproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/devicenameproto.xml
+---------------------------------
+Archivo: backupsproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/backupsproto.xml
+---------------------------------
+Archivo: externalbackupsproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/externalbackupsproto.xml
+---------------------------------
+Archivo: DatabaseEntityUser.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/DatabaseEntityUser.xml
+---------------------------------
+Archivo: jobdataproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/jobdataproto.xml
+---------------------------------
+Archivo: DatabaseEntityConversation.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/DatabaseEntityConversation.xml
+---------------------------------
+Archivo: DatabaseEntityMessage.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/DatabaseEntityMessage.xml
+---------------------------------
+Archivo: paymentsproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/paymentsproto.xml
+---------------------------------
+Archivo: keyvalueproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/keyvalueproto.xml
+---------------------------------
+Archivo: backupproto.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/proto/backupproto.xml
+---------------------------------
+Archivo: NLUConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/config/NLUConfig.kt
+---------------------------------
+Archivo: MainConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/config/MainConfig.kt
+---------------------------------
+Archivo: PUSBEC_YAML_Config.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/config/PUSBEC_YAML_Config.kt
+---------------------------------
+Archivo: StoriesConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/config/StoriesConfig.kt
+---------------------------------
+Archivo: LintConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/config/LintConfig.kt
+---------------------------------
+Archivo: interviewdatabasehelper.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/helpers/interviewdatabasehelper.xml
+---------------------------------
+Archivo: databasehelper.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/helpers/databasehelper.xml
+---------------------------------
+Archivo: firebasemodel.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/models/firebasemodel.xml
+---------------------------------
+Archivo: DatabaseConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/models/DatabaseConfig.kt
+---------------------------------
+Archivo: MessageDao.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/MessageDao.xml
+---------------------------------
+Archivo: interviewdatacaptureactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/interviewdatacaptureactivity.kt
+---------------------------------
+Archivo: chatactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/chatactivity.kt
+---------------------------------
+Archivo: MyApplication.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/MyApplication.xml
+---------------------------------
+Archivo: BotMainClass.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/BotMainClass.xml
+---------------------------------
+Archivo: FaceDetection_fixed.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/FaceDetection_fixed.xml
+---------------------------------
+Archivo: admininterfaceactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/admininterfaceactivity.kt
+---------------------------------
+Archivo: speechrecognizeractivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/speechrecognizeractivity.kt
+---------------------------------
+Archivo: FaceDetection.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/FaceDetection.xml
+---------------------------------
+Archivo: mainactivitylayout.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/mainactivitylayout.kt
+---------------------------------
+Archivo: MessageAdapter.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/MessageAdapter.xml
+---------------------------------
+Archivo: evaluationactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/java/com/example/app/activities/evaluationactivity.kt
+---------------------------------
+Archivo: classes2.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dex/classes2.dex
+---------------------------------
+Archivo: classes3.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dex/classes3.dex
+---------------------------------
+Archivo: classes4.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dex/classes4.dex
+---------------------------------
+Archivo: classes5.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dex/classes5.dex
+---------------------------------
+Archivo: classes6.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dex/classes6.dex
+---------------------------------
+Archivo: classes.dex
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dex/classes.dex
+---------------------------------
+Archivo: baseline.prof
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dexopt/baseline.prof
+---------------------------------
+Archivo: baseline.profm
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/assets/dexopt/baseline.profm
+---------------------------------
+Archivo: libringrtc.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/jniLibs/arm64-v8a/libringrtc.so
+---------------------------------
+Archivo: libringrtc_rffi.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/jniLibs/arm64-v8a/libringrtc_rffi.so
+---------------------------------
+Archivo: libaesgcm.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/jniLibs/arm64-v8a/libaesgcm.so
+---------------------------------
+Archivo: libsignal_jni.so
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/jniLibs/arm64-v8a/libsignal_jni.so
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/app/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/build.gradle.kts
+---------------------------------
+Archivo: PhotoViewAttacher.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/PhotoViewAttacher.java
+---------------------------------
+Archivo: OnMatrixChangedListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnMatrixChangedListener.java
+---------------------------------
+Archivo: OnViewTapListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnViewTapListener.java
+---------------------------------
+Archivo: Util.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/Util.java
+---------------------------------
+Archivo: OnOutsidePhotoTapListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnOutsidePhotoTapListener.java
+---------------------------------
+Archivo: OnScaleChangedListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnScaleChangedListener.java
+---------------------------------
+Archivo: PhotoView.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/PhotoView.java
+---------------------------------
+Archivo: Compat.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/Compat.java
+---------------------------------
+Archivo: OnViewDragListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnViewDragListener.java
+---------------------------------
+Archivo: OnGestureListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnGestureListener.java
+---------------------------------
+Archivo: OnPhotoTapListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnPhotoTapListener.java
+---------------------------------
+Archivo: OnSingleFlingListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/OnSingleFlingListener.java
+---------------------------------
+Archivo: CustomGestureDetector.java
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/java/com/github/chrisbanes/photoview/CustomGestureDetector.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/photoview/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: gradle.properties
+Ubicación: ./TeH/android_project_restructured_corrected/gradle.properties
+---------------------------------
+Archivo: settings.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/settings.gradle.kts
+---------------------------------
+Archivo: gradlew.bat
+Ubicación: ./TeH/android_project_restructured_corrected/gradlew.bat
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/build.gradle.kts
+---------------------------------
+Archivo: ic_launcher-playstore.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/ic_launcher-playstore.png
+---------------------------------
+Archivo: ic_launcher_background.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/drawable/ic_launcher_background.xml
+---------------------------------
+Archivo: ic_launcher_foreground.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/drawable/ic_launcher_foreground.xml
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/values/strings.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/values/themes.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/values/colors.xml
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-mdpi/ic_launcher.png
+---------------------------------
+Archivo: activity_main.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/layout/activity_main.xml
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-hdpi/ic_launcher.png
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/values-night/themes.xml
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+---------------------------------
+Archivo: ic_launcher_round.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+---------------------------------
+Archivo: ic_launcher.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+---------------------------------
+Archivo: QrMainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/java/org/signal/qrtest/QrMainActivity.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/app/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/build.gradle.kts
+---------------------------------
+Archivo: CameraSurfaceView.java
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/kitkat/CameraSurfaceView.java
+---------------------------------
+Archivo: CameraUtils.java
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/kitkat/CameraUtils.java
+---------------------------------
+Archivo: ScanListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/kitkat/ScanListener.java
+---------------------------------
+Archivo: ScanningThread.java
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/kitkat/ScanningThread.java
+---------------------------------
+Archivo: QrCameraView.java
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/kitkat/QrCameraView.java
+---------------------------------
+Archivo: ScannerView19.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/ScannerView19.kt
+---------------------------------
+Archivo: QrScannerView.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/QrScannerView.kt
+---------------------------------
+Archivo: ImageProxyLuminanceSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/ImageProxyLuminanceSource.kt
+---------------------------------
+Archivo: QrProcessor.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/QrProcessor.kt
+---------------------------------
+Archivo: ScannerView.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/ScannerView.kt
+---------------------------------
+Archivo: ScannerView21.kt
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/java/org/signal/qr/ScannerView21.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/qr/lib/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: proguard-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/proguard-rules.pro
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/build.gradle.kts
+---------------------------------
+Archivo: ExampleInstrumentedTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/androidTest/java/org/thoughtcrime/video/app/ExampleInstrumentedTest.kt
+---------------------------------
+Archivo: ic_launcher_background.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable/ic_launcher_background.xml
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/values/strings.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/values/themes.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/values/colors.xml
+---------------------------------
+Archivo: ic_work_notification.png
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable-xhdpi/ic_work_notification.png
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_work_notification.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable-anydpi-v24/ic_work_notification.xml
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_work_notification.png
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable-xxhdpi/ic_work_notification.png
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_work_notification.png
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable-mdpi/ic_work_notification.png
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_launcher_foreground.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+---------------------------------
+Archivo: ic_work_notification.png
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/drawable-hdpi/ic_work_notification.png
+---------------------------------
+Archivo: ic_launcher_round.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+---------------------------------
+Archivo: ic_launcher.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+---------------------------------
+Archivo: PlaybackTestViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/playback/PlaybackTestViewModel.kt
+---------------------------------
+Archivo: SlowDataSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/playback/SlowDataSource.kt
+---------------------------------
+Archivo: PlaybackTestActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/playback/PlaybackTestActivity.kt
+---------------------------------
+Archivo: MainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/MainActivity.kt
+---------------------------------
+Archivo: Theme.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/ui/theme/Theme.kt
+---------------------------------
+Archivo: Type.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/ui/theme/Type.kt
+---------------------------------
+Archivo: Color.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/ui/theme/Color.kt
+---------------------------------
+Archivo: LabeledButton.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/ui/composables/LabeledButton.kt
+---------------------------------
+Archivo: TranscodeTestActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/TranscodeTestActivity.kt
+---------------------------------
+Archivo: Constants.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/Constants.kt
+---------------------------------
+Archivo: TranscodeTestViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/TranscodeTestViewModel.kt
+---------------------------------
+Archivo: InputSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/composables/InputSelection.kt
+---------------------------------
+Archivo: ConfigurationSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/composables/ConfigurationSelection.kt
+---------------------------------
+Archivo: OutputSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/composables/OutputSelection.kt
+---------------------------------
+Archivo: Progress.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/composables/Progress.kt
+---------------------------------
+Archivo: TranscodeTestRepository.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/TranscodeTestRepository.kt
+---------------------------------
+Archivo: TranscodeWorker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/java/org/thoughtcrime/video/app/transcode/TranscodeWorker.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: ExampleUnitTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/app/src/test/java/org/thoughtcrime/video/app/ExampleUnitTest.kt
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/build.gradle.kts
+---------------------------------
+Archivo: VideoPostProcessingException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/exceptions/VideoPostProcessingException.kt
+---------------------------------
+Archivo: VideoSourceException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/exceptions/VideoSourceException.kt
+---------------------------------
+Archivo: VideoSizeException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/exceptions/VideoSizeException.kt
+---------------------------------
+Archivo: TranscodingQuality.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/TranscodingQuality.kt
+---------------------------------
+Archivo: TranscoderOptions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/TranscoderOptions.kt
+---------------------------------
+Archivo: Mp4FaststartPostProcessor.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/postprocessing/Mp4FaststartPostProcessor.kt
+---------------------------------
+Archivo: MediaInput.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/interfaces/MediaInput.kt
+---------------------------------
+Archivo: Muxer.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/interfaces/Muxer.java
+---------------------------------
+Archivo: TranscoderCancelationSignal.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/interfaces/TranscoderCancelationSignal.kt
+---------------------------------
+Archivo: MediaConverter.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/MediaConverter.java
+---------------------------------
+Archivo: VideoTrackConverter.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/VideoTrackConverter.java
+---------------------------------
+Archivo: EncodingException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/exceptions/EncodingException.kt
+---------------------------------
+Archivo: AndroidMuxer.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/AndroidMuxer.java
+---------------------------------
+Archivo: TranscodingException.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/TranscodingException.java
+---------------------------------
+Archivo: InputStreamMediaDataSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/mediadatasource/InputStreamMediaDataSource.kt
+---------------------------------
+Archivo: MediaDataSourceMediaInput.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/mediadatasource/MediaDataSourceMediaInput.kt
+---------------------------------
+Archivo: Preconditions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/utils/Preconditions.kt
+---------------------------------
+Archivo: DeviceCapabilities.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/utils/DeviceCapabilities.kt
+---------------------------------
+Archivo: VideoConstants.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/utils/VideoConstants.kt
+---------------------------------
+Archivo: MediaCodecCompat.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/utils/MediaCodecCompat.kt
+---------------------------------
+Archivo: Extensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/utils/Extensions.kt
+---------------------------------
+Archivo: TextureRender.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/TextureRender.java
+---------------------------------
+Archivo: AudioTrackConverter.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/AudioTrackConverter.java
+---------------------------------
+Archivo: MediaConverterState.kt
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/MediaConverterState.kt
+---------------------------------
+Archivo: OutputSurface.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/OutputSurface.java
+---------------------------------
+Archivo: VideoThumbnailsExtractor.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/VideoThumbnailsExtractor.java
+---------------------------------
+Archivo: InputSurface.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/InputSurface.java
+---------------------------------
+Archivo: Mp4Writer.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/Mp4Writer.java
+---------------------------------
+Archivo: AacTrack.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/AacTrack.java
+---------------------------------
+Archivo: H264Utils.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/H264Utils.java
+---------------------------------
+Archivo: HevcTrack.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/HevcTrack.java
+---------------------------------
+Archivo: StreamingMuxer.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/StreamingMuxer.java
+---------------------------------
+Archivo: Utils.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/Utils.java
+---------------------------------
+Archivo: AvcTrack.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/AvcTrack.java
+---------------------------------
+Archivo: MuxingException.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/videoconverter/muxer/MuxingException.java
+---------------------------------
+Archivo: StreamingTranscoder.java
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/java/org/thoughtcrime/securesms/video/StreamingTranscoder.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/video/lib/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/build.gradle.kts
+---------------------------------
+Archivo: dimens.xml
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/res/values/dimens.xml
+---------------------------------
+Archivo: dimens.xml
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/res/values-sw360dp/dimens.xml
+---------------------------------
+Archivo: SnackbarColors.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/theme/SnackbarColors.kt
+---------------------------------
+Archivo: ExtendedColors.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/theme/ExtendedColors.kt
+---------------------------------
+Archivo: SignalTheme.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/theme/SignalTheme.kt
+---------------------------------
+Archivo: DragAndDrop.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/copied/androidx/compose/DragAndDrop.kt
+---------------------------------
+Archivo: DragGestureDetector.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/copied/androidx/compose/DragGestureDetector.kt
+---------------------------------
+Archivo: AndroidMenu.android.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/copied/androidx/compose/material3/AndroidMenu.android.kt
+---------------------------------
+Archivo: Menu.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/copied/androidx/compose/material3/Menu.kt
+---------------------------------
+Archivo: IconButton.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/copied/androidx/compose/material3/IconButton.kt
+---------------------------------
+Archivo: Rows.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Rows.kt
+---------------------------------
+Archivo: Previews.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Previews.kt
+---------------------------------
+Archivo: TextFields.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/TextFields.kt
+---------------------------------
+Archivo: SignalPreview.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/SignalPreview.kt
+---------------------------------
+Archivo: Dialogs.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Dialogs.kt
+---------------------------------
+Archivo: BottomSheets.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/BottomSheets.kt
+---------------------------------
+Archivo: Snackbars.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Snackbars.kt
+---------------------------------
+Archivo: IconButtons.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/IconButtons.kt
+---------------------------------
+Archivo: Scaffolds.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Scaffolds.kt
+---------------------------------
+Archivo: Dividers.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Dividers.kt
+---------------------------------
+Archivo: Icons.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Icons.kt
+---------------------------------
+Archivo: DropdownMenus.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/DropdownMenus.kt
+---------------------------------
+Archivo: Buttons.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Buttons.kt
+---------------------------------
+Archivo: ModifierExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/ModifierExtensions.kt
+---------------------------------
+Archivo: DarkPreview.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/DarkPreview.kt
+---------------------------------
+Archivo: Texts.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Texts.kt
+---------------------------------
+Archivo: Animations.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/java/org/signal/core/ui/Animations.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/core-ui/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: settings.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/settings.gradle.kts
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/tools/build.gradle.kts
+---------------------------------
+Archivo: StaticIpResolver.kt
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/tools/src/main/java/org/signal/buildtools/StaticIpResolver.kt
+---------------------------------
+Archivo: StaticIpResolverTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/tools/src/test/java/org/signal/buildtools/StaticIpResolverTest.kt
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/build.gradle.kts
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/build.gradle.kts
+---------------------------------
+Archivo: signal-sample-app.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/src/main/java/signal-sample-app.gradle.kts
+---------------------------------
+Archivo: licenses.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/src/main/java/licenses.gradle.kts
+---------------------------------
+Archivo: signal-library.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/src/main/java/signal-library.gradle.kts
+---------------------------------
+Archivo: Licenses.kt
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/src/main/java/Licenses.kt
+---------------------------------
+Archivo: ktlint.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/src/main/java/ktlint.gradle.kts
+---------------------------------
+Archivo: translations.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/build-logic/plugins/src/main/java/translations.gradle
+---------------------------------
+Archivo: verification-metadata.xml
+Ubicación: ./TeH/android_project_restructured_corrected/gradle/verification-metadata.xml
+---------------------------------
+Archivo: gradle-wrapper.properties
+Ubicación: ./TeH/android_project_restructured_corrected/gradle/wrapper/gradle-wrapper.properties
+---------------------------------
+Archivo: gradle-wrapper.jar
+Ubicación: ./TeH/android_project_restructured_corrected/gradle/wrapper/gradle-wrapper.jar
+---------------------------------
+Archivo: proguard.cfg
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/proguard/proguard.cfg
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/build.gradle.kts
+---------------------------------
+Archivo: ic_launcher_background.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/drawable/ic_launcher_background.xml
+---------------------------------
+Archivo: ic_refresh_20.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/drawable/ic_refresh_20.xml
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/values/strings.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/values/themes.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/values/colors.xml
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-mdpi/ic_launcher.png
+---------------------------------
+Archivo: activity_main.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/layout/activity_main.xml
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-hdpi/ic_launcher.png
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/values-night/themes.xml
+---------------------------------
+Archivo: ic_launcher_round.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+---------------------------------
+Archivo: ic_launcher.png
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+---------------------------------
+Archivo: ic_launcher_foreground.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+---------------------------------
+Archivo: ic_launcher_round.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+---------------------------------
+Archivo: ic_launcher.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+---------------------------------
+Archivo: MainActivity.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/java/org/signal/devicetransfer/app/MainActivity.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/app/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/build.gradle.kts
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/res/values/strings.xml
+---------------------------------
+Archivo: DeviceTransferServer.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/DeviceTransferServer.java
+---------------------------------
+Archivo: ShutdownCallback.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/ShutdownCallback.java
+---------------------------------
+Archivo: SelfSignedIdentity.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/SelfSignedIdentity.java
+---------------------------------
+Archivo: DeviceTransferAuthentication.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/DeviceTransferAuthentication.java
+---------------------------------
+Archivo: NetworkServerThread.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/NetworkServerThread.java
+---------------------------------
+Archivo: DeviceToDeviceTransferService.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/DeviceToDeviceTransferService.java
+---------------------------------
+Archivo: IpExchange.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/IpExchange.java
+---------------------------------
+Archivo: TransferStatus.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/TransferStatus.java
+---------------------------------
+Archivo: WifiDirectUnavailableException.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/WifiDirectUnavailableException.java
+---------------------------------
+Archivo: ClientTask.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/ClientTask.java
+---------------------------------
+Archivo: ServerTask.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/ServerTask.java
+---------------------------------
+Archivo: NetworkClientThread.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/NetworkClientThread.java
+---------------------------------
+Archivo: DeviceTransferClient.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/DeviceTransferClient.java
+---------------------------------
+Archivo: WifiDirect.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/WifiDirect.java
+---------------------------------
+Archivo: KeyGenerationFailedException.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/java/org/signal/devicetransfer/KeyGenerationFailedException.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: DeviceTransferAuthenticationTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/test/java/org/signal/devicetransfer/DeviceTransferAuthenticationTest.java
+---------------------------------
+Archivo: WifiDirectTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/device-transfer/lib/src/test/java/org/signal/devicetransfer/WifiDirectTest.java
+---------------------------------
+Archivo: Manifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/Manifest.xml
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/build.gradle.kts
+---------------------------------
+Archivo: DurationExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/DurationExtensions.kt
+---------------------------------
+Archivo: LongExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/LongExtensions.kt
+---------------------------------
+Archivo: LimitedInputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/stream/LimitedInputStream.kt
+---------------------------------
+Archivo: NonClosingOutputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/stream/NonClosingOutputStream.kt
+---------------------------------
+Archivo: NullOutputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/stream/NullOutputStream.kt
+---------------------------------
+Archivo: MacOutputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/stream/MacOutputStream.kt
+---------------------------------
+Archivo: MacInputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/stream/MacInputStream.kt
+---------------------------------
+Archivo: OptionalExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/OptionalExtensions.kt
+---------------------------------
+Archivo: Hex.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/Hex.java
+---------------------------------
+Archivo: Scrubber.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/logging/Scrubber.kt
+---------------------------------
+Archivo: Log.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/logging/Log.kt
+---------------------------------
+Archivo: CompoundLogger.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/logging/CompoundLogger.kt
+---------------------------------
+Archivo: NoopLogger.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/logging/NoopLogger.kt
+---------------------------------
+Archivo: OutputStreamExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/OutputStreamExtensions.kt
+---------------------------------
+Archivo: CascadingFuture.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/concurrent/CascadingFuture.java
+---------------------------------
+Archivo: ListenableFuture.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/concurrent/ListenableFuture.java
+---------------------------------
+Archivo: FutureTransformers.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/concurrent/FutureTransformers.java
+---------------------------------
+Archivo: FutureMapTransformer.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/concurrent/FutureMapTransformer.java
+---------------------------------
+Archivo: SettableFuture.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/concurrent/SettableFuture.java
+---------------------------------
+Archivo: StringExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/StringExtensions.kt
+---------------------------------
+Archivo: ProtoExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/ProtoExtensions.kt
+---------------------------------
+Archivo: DoubleExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/DoubleExtensions.kt
+---------------------------------
+Archivo: TestUtils.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/test/TestUtils.kt
+---------------------------------
+Archivo: CryptoUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/CryptoUtil.java
+---------------------------------
+Archivo: FlowExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/FlowExtensions.kt
+---------------------------------
+Archivo: Bitmask.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/Bitmask.java
+---------------------------------
+Archivo: Stopwatch.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/Stopwatch.kt
+---------------------------------
+Archivo: Base64.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/Base64.kt
+---------------------------------
+Archivo: StreamUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/StreamUtil.java
+---------------------------------
+Archivo: ByteExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/ByteExtensions.kt
+---------------------------------
+Archivo: SetUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/SetUtil.java
+---------------------------------
+Archivo: FloatExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/FloatExtensions.kt
+---------------------------------
+Archivo: Base64Tools.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/Base64Tools.java
+---------------------------------
+Archivo: InputStreamExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/InputStreamExtensions.kt
+---------------------------------
+Archivo: ResettableLazy.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/main/java/org/signal/core/util/ResettableLazy.kt
+---------------------------------
+Archivo: VarInt32Tests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/VarInt32Tests.kt
+---------------------------------
+Archivo: MacInputStreamTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/stream/MacInputStreamTest.kt
+---------------------------------
+Archivo: MacOutputStreamTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/stream/MacOutputStreamTest.kt
+---------------------------------
+Archivo: LimitedInputStreamTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/stream/LimitedInputStreamTest.kt
+---------------------------------
+Archivo: Base64Test.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/Base64Test.kt
+---------------------------------
+Archivo: ResettableLazyTests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/ResettableLazyTests.kt
+---------------------------------
+Archivo: FlowExtensionsTests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/FlowExtensionsTests.kt
+---------------------------------
+Archivo: ScrubberTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/logging/ScrubberTest.kt
+---------------------------------
+Archivo: LogTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util-jvm/src/test/java/org/signal/core/util/logging/LogTest.java
+---------------------------------
+Archivo: Android.mk
+Ubicación: ./TeH/android_project_restructured_corrected/jni/Android.mk
+---------------------------------
+Archivo: Application.mk
+Ubicación: ./TeH/android_project_restructured_corrected/jni/Application.mk
+---------------------------------
+Archivo: org_thoughtcrime_securesms_util_FileUtils.h
+Ubicación: ./TeH/android_project_restructured_corrected/jni/utils/org_thoughtcrime_securesms_util_FileUtils.h
+---------------------------------
+Archivo: org_thoughtcrime_securesms_util_FileUtils.cpp
+Ubicación: ./TeH/android_project_restructured_corrected/jni/utils/org_thoughtcrime_securesms_util_FileUtils.cpp
+---------------------------------
+Archivo: proguard-square-okhttp.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-square-okhttp.pro
+---------------------------------
+Archivo: proguard-ez-vcard.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-ez-vcard.pro
+---------------------------------
+Archivo: proguard-appcompat-v7.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-appcompat-v7.pro
+---------------------------------
+Archivo: proguard-okhttp.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-okhttp.pro
+---------------------------------
+Archivo: proguard-jackson.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-jackson.pro
+---------------------------------
+Archivo: proguard-firebase-messaging.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-firebase-messaging.pro
+---------------------------------
+Archivo: proguard-automation.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-automation.pro
+---------------------------------
+Archivo: proguard-glide.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-glide.pro
+---------------------------------
+Archivo: proguard-rounded-image-view.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-rounded-image-view.pro
+---------------------------------
+Archivo: proguard-retrofit.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-retrofit.pro
+---------------------------------
+Archivo: proguard-klinker.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-klinker.pro
+---------------------------------
+Archivo: proguard-retrolambda.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-retrolambda.pro
+---------------------------------
+Archivo: proguard-square-okio.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-square-okio.pro
+---------------------------------
+Archivo: proguard.cfg
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard.cfg
+---------------------------------
+Archivo: proguard-shortcutbadger.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-shortcutbadger.pro
+---------------------------------
+Archivo: proguard-mobilecoin.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-mobilecoin.pro
+---------------------------------
+Archivo: proguard-google-play-services.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-google-play-services.pro
+---------------------------------
+Archivo: proguard-sqlite.pro
+Ubicación: ./TeH/android_project_restructured_corrected/proguard/proguard-sqlite.pro
+---------------------------------
+Archivo: 00Index.html
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/html/00Index.html
+---------------------------------
+Archivo: R.css
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/html/R.css
+---------------------------------
+Archivo: data.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/data.rds
+---------------------------------
+Archivo: Rd.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/Rd.rds
+---------------------------------
+Archivo: package.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/package.rds
+---------------------------------
+Archivo: features.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/features.rds
+---------------------------------
+Archivo: nsInfo.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/nsInfo.rds
+---------------------------------
+Archivo: hsearch.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/hsearch.rds
+---------------------------------
+Archivo: links.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/Meta/links.rds
+---------------------------------
+Archivo: INDEX
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/INDEX
+---------------------------------
+Archivo: sherlock.rdx
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/R/sherlock.rdx
+---------------------------------
+Archivo: sherlock.rdb
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/R/sherlock.rdb
+---------------------------------
+Archivo: sherlock
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/R/sherlock
+---------------------------------
+Archivo: DESCRIPTION
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/DESCRIPTION
+---------------------------------
+Archivo: NAMESPACE
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/NAMESPACE
+---------------------------------
+Archivo: Rdata.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/data/Rdata.rds
+---------------------------------
+Archivo: Rdata.rdb
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/data/Rdata.rdb
+---------------------------------
+Archivo: Rdata.rdx
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/data/Rdata.rdx
+---------------------------------
+Archivo: LICENSE
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/LICENSE
+---------------------------------
+Archivo: sherlock.rdx
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/help/sherlock.rdx
+---------------------------------
+Archivo: sherlock.rdb
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/help/sherlock.rdb
+---------------------------------
+Archivo: AnIndex
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/help/AnIndex
+---------------------------------
+Archivo: aliases.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/help/aliases.rds
+---------------------------------
+Archivo: paths.rds
+Ubicación: ./TeH/android_project_restructured_corrected/sherlock/help/paths.rds
+---------------------------------
+Archivo: consumer-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/consumer-rules.pro
+---------------------------------
+Archivo: proguard-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/proguard-rules.pro
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/build.gradle.kts
+---------------------------------
+Archivo: ic_trash_white_24.xml
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/res/drawable/ic_trash_white_24.xml
+---------------------------------
+Archivo: Trace.proto
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/protowire/Trace.proto
+---------------------------------
+Archivo: ContentResolverExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ContentResolverExtensions.kt
+---------------------------------
+Archivo: ListUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ListUtil.java
+---------------------------------
+Archivo: IntentExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/IntentExtensions.kt
+---------------------------------
+Archivo: StringUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/StringUtil.java
+---------------------------------
+Archivo: ContextExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ContextExtensions.kt
+---------------------------------
+Archivo: BreakIteratorCompat.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/BreakIteratorCompat.java
+---------------------------------
+Archivo: CollectionsExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/CollectionsExtensions.kt
+---------------------------------
+Archivo: BundleExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/BundleExtensions.kt
+---------------------------------
+Archivo: ExceptionUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ExceptionUtil.java
+---------------------------------
+Archivo: CharacterIterable.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/CharacterIterable.java
+---------------------------------
+Archivo: DocumentFileInfo.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/androidx/DocumentFileInfo.kt
+---------------------------------
+Archivo: DocumentFileUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/androidx/DocumentFileUtil.kt
+---------------------------------
+Archivo: Tracer.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/tracing/Tracer.java
+---------------------------------
+Archivo: AsciiArt.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/AsciiArt.kt
+---------------------------------
+Archivo: MapUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/MapUtil.java
+---------------------------------
+Archivo: DimensionUnit.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/DimensionUnit.java
+---------------------------------
+Archivo: AndroidLogger.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/logging/AndroidLogger.java
+---------------------------------
+Archivo: MemoryTracker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/MemoryTracker.kt
+---------------------------------
+Archivo: DeadlockDetector.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/DeadlockDetector.kt
+---------------------------------
+Archivo: SimpleTask.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/SimpleTask.java
+---------------------------------
+Archivo: LatestPrioritizedSerialExecutor.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/LatestPrioritizedSerialExecutor.java
+---------------------------------
+Archivo: LifecycleDisposable.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/LifecycleDisposable.kt
+---------------------------------
+Archivo: SignalExecutors.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/SignalExecutors.java
+---------------------------------
+Archivo: AnrDetector.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/AnrDetector.kt
+---------------------------------
+Archivo: LimitedWorker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/LimitedWorker.kt
+---------------------------------
+Archivo: MaybeCompat.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/MaybeCompat.kt
+---------------------------------
+Archivo: RxExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/concurrent/RxExtensions.kt
+---------------------------------
+Archivo: FiatMoney.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/money/FiatMoney.java
+---------------------------------
+Archivo: PlatformCurrencyUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/money/PlatformCurrencyUtil.kt
+---------------------------------
+Archivo: CursorUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/CursorUtil.java
+---------------------------------
+Archivo: LinkedBlockingLifoQueue.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/LinkedBlockingLifoQueue.java
+---------------------------------
+Archivo: ThreadUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ThreadUtil.java
+---------------------------------
+Archivo: EditTextUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/EditTextUtil.java
+---------------------------------
+Archivo: ParcelExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ParcelExtensions.kt
+---------------------------------
+Archivo: GraphemeClusterLimitFilter.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/GraphemeClusterLimitFilter.java
+---------------------------------
+Archivo: SQLiteDatabaseExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/SQLiteDatabaseExtensions.kt
+---------------------------------
+Archivo: Serializer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/Serializer.kt
+---------------------------------
+Archivo: DimensionUnitExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/DimensionUnitExtensions.kt
+---------------------------------
+Archivo: FontUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/FontUtil.kt
+---------------------------------
+Archivo: AppUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/AppUtil.java
+---------------------------------
+Archivo: PendingIntentFlags.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/PendingIntentFlags.kt
+---------------------------------
+Archivo: Conversions.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/Conversions.java
+---------------------------------
+Archivo: SqlUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/SqlUtil.kt
+---------------------------------
+Archivo: TranslationDetection.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/TranslationDetection.java
+---------------------------------
+Archivo: ToolbarExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ToolbarExtensions.kt
+---------------------------------
+Archivo: CursorExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/CursorExtensions.kt
+---------------------------------
+Archivo: ResourceUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ResourceUtil.java
+---------------------------------
+Archivo: DatabaseId.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/DatabaseId.java
+---------------------------------
+Archivo: EventTimer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/EventTimer.kt
+---------------------------------
+Archivo: Result.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/Result.kt
+---------------------------------
+Archivo: BillingDependencies.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/billing/BillingDependencies.kt
+---------------------------------
+Archivo: BillingProduct.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/billing/BillingProduct.kt
+---------------------------------
+Archivo: BillingApi.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/billing/BillingApi.kt
+---------------------------------
+Archivo: BillingPurchaseResult.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/billing/BillingPurchaseResult.kt
+---------------------------------
+Archivo: ShakeDetector.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/ShakeDetector.java
+---------------------------------
+Archivo: SupportSQLiteQueryExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/org/signal/core/util/SupportSQLiteQueryExtensions.kt
+---------------------------------
+Archivo: DocumentFileHack.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/java/androidx/documentfile/provider/DocumentFileHack.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: StringUtilTest_hasMixedTextDirection.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_hasMixedTextDirection.java
+---------------------------------
+Archivo: StringUtilTest_trim.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_trim.java
+---------------------------------
+Archivo: StringUtilTest_replace.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_replace.kt
+---------------------------------
+Archivo: BitmaskTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/BitmaskTest.java
+---------------------------------
+Archivo: SqlUtilTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/SqlUtilTest.java
+---------------------------------
+Archivo: StringUtilTest_whitespace_handling.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_whitespace_handling.java
+---------------------------------
+Archivo: RxExtensionsTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/concurrent/RxExtensionsTest.kt
+---------------------------------
+Archivo: LatestPrioritizedSerialExecutorTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/concurrent/LatestPrioritizedSerialExecutorTest.java
+---------------------------------
+Archivo: StringUtilTest_startsWith.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_startsWith.kt
+---------------------------------
+Archivo: FiatMoneyTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/money/FiatMoneyTest.java
+---------------------------------
+Archivo: StringUtilTest_trimToFit.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_trimToFit.java
+---------------------------------
+Archivo: StringExtensions_asListContains.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringExtensions_asListContains.kt
+---------------------------------
+Archivo: StringUtilTest_endsWith.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_endsWith.kt
+---------------------------------
+Archivo: StringUtilTest_abbreviateInMiddle.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/StringUtilTest_abbreviateInMiddle.java
+---------------------------------
+Archivo: ListUtilTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/ListUtilTest.java
+---------------------------------
+Archivo: InputStreamExtensionTests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/InputStreamExtensionTests.kt
+---------------------------------
+Archivo: BreakIteratorCompatTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/core-util/src/test/java/org/signal/core/util/BreakIteratorCompatTest.java
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/build.gradle
+---------------------------------
+Archivo: ic_launcher_foreground.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/drawable/ic_launcher_foreground.xml
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/values/strings.xml
+---------------------------------
+Archivo: ic_launcher_background.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/values/ic_launcher_background.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/values/themes.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/values/colors.xml
+---------------------------------
+Archivo: child_item.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/layout/child_item.xml
+---------------------------------
+Archivo: activity_main.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/layout/activity_main.xml
+---------------------------------
+Archivo: parent_item.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/layout/parent_item.xml
+---------------------------------
+Archivo: activity_contact_lookup.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/layout/activity_contact_lookup.xml
+---------------------------------
+Archivo: activity_contact_list.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/layout/activity_contact_list.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/values-night/themes.xml
+---------------------------------
+Archivo: authenticator.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/xml/authenticator.xml
+---------------------------------
+Archivo: syncadapter.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/xml/syncadapter.xml
+---------------------------------
+Archivo: contactsformat.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/xml/contactsformat.xml
+---------------------------------
+Archivo: ic_launcher_round.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+---------------------------------
+Archivo: ic_launcher.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+---------------------------------
+Archivo: ContactListViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactListViewModel.kt
+---------------------------------
+Archivo: AccountAuthenticatorService.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/AccountAuthenticatorService.kt
+---------------------------------
+Archivo: ContactsSyncAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactsSyncAdapter.kt
+---------------------------------
+Archivo: ContactListActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactListActivity.kt
+---------------------------------
+Archivo: ContactsSyncAdapterService.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactsSyncAdapterService.kt
+---------------------------------
+Archivo: ContactLookupViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactLookupViewModel.kt
+---------------------------------
+Archivo: PhoneAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/PhoneAdapter.kt
+---------------------------------
+Archivo: ContactsAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactsAdapter.kt
+---------------------------------
+Archivo: MainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/MainActivity.kt
+---------------------------------
+Archivo: ContactLookupActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/java/org/signal/contactstest/ContactLookupActivity.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/app/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/lib/build.gradle
+---------------------------------
+Archivo: ContactLinkConfiguration.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/lib/src/main/java/org/signal/contacts/ContactLinkConfiguration.kt
+---------------------------------
+Archivo: SystemContactsRepository.kt
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/lib/src/main/java/org/signal/contacts/SystemContactsRepository.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/contacts/lib/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: lint-baseline.xml
+Ubicación: ./TeH/android_project_restructured_corrected/lint-baseline.xml
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/build.gradle
+---------------------------------
+Archivo: gradlew
+Ubicación: ./TeH/android_project_restructured_corrected/gradlew
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/glide-config/build.gradle.kts
+---------------------------------
+Archivo: SignalGlideModule.kt
+Ubicación: ./TeH/android_project_restructured_corrected/glide-config/src/main/java/org/thoughtcrime/securesms/mms/SignalGlideModule.kt
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/glide-config/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: static-ips.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/static-ips.gradle.kts
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/build.gradle.kts
+---------------------------------
+Archivo: ContentResolverExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContentResolverExtensions.kt
+---------------------------------
+Archivo: NLUConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/NLUConfig.kt
+---------------------------------
+Archivo: DeadlockDetector.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DeadlockDetector.kt
+---------------------------------
+Archivo: LimitedInputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LimitedInputStream.kt
+---------------------------------
+Archivo: MainConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MainConfig.kt
+---------------------------------
+Archivo: TrashRenderer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TrashRenderer.kt
+---------------------------------
+Archivo: groupMessaging.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/groupMessaging.kt
+---------------------------------
+Archivo: TimeLimitedConversations.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TimeLimitedConversations.kt
+---------------------------------
+Archivo: Scrubber.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Scrubber.kt
+---------------------------------
+Archivo: ContactLinkConfiguration.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactLinkConfiguration.kt
+---------------------------------
+Archivo: interviewdatacaptureactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/interviewdatacaptureactivity.kt
+---------------------------------
+Archivo: Rows.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Rows.kt
+---------------------------------
+Archivo: Previews.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Previews.kt
+---------------------------------
+Archivo: TextFields.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TextFields.kt
+---------------------------------
+Archivo: VarInt32Tests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VarInt32Tests.kt
+---------------------------------
+Archivo: InputStreamMediaDataSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/InputStreamMediaDataSource.kt
+---------------------------------
+Archivo: MacInputStreamTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MacInputStreamTest.kt
+---------------------------------
+Archivo: SignalPreview.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SignalPreview.kt
+---------------------------------
+Archivo: StaticIpResolverTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StaticIpResolverTest.kt
+---------------------------------
+Archivo: IntentExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/IntentExtensions.kt
+---------------------------------
+Archivo: Dialogs.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Dialogs.kt
+---------------------------------
+Archivo: Preconditions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Preconditions.kt
+---------------------------------
+Archivo: BottomSheets.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/BottomSheets.kt
+---------------------------------
+Archivo: StringUtilTest_replace.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StringUtilTest_replace.kt
+---------------------------------
+Archivo: VoiceInteraction.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VoiceInteraction.kt
+---------------------------------
+Archivo: TranscodeTestActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscodeTestActivity.kt
+---------------------------------
+Archivo: chatactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/chatactivity.kt
+---------------------------------
+Archivo: MediaInput.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MediaInput.kt
+---------------------------------
+Archivo: SystemContactsRepository.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SystemContactsRepository.kt
+---------------------------------
+Archivo: Snackbars.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Snackbars.kt
+---------------------------------
+Archivo: ContextExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContextExtensions.kt
+---------------------------------
+Archivo: RxExtensionsTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/RxExtensionsTest.kt
+---------------------------------
+Archivo: BillingDependencies.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/BillingDependencies.kt
+---------------------------------
+Archivo: IconButtons.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/IconButtons.kt
+---------------------------------
+Archivo: MacOutputStreamTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MacOutputStreamTest.kt
+---------------------------------
+Archivo: TranscodingQuality.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscodingQuality.kt
+---------------------------------
+Archivo: ContactListViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactListViewModel.kt
+---------------------------------
+Archivo: Constants.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Constants.kt
+---------------------------------
+Archivo: DurationExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DurationExtensions.kt
+---------------------------------
+Archivo: LongExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LongExtensions.kt
+---------------------------------
+Archivo: SnackbarColors.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SnackbarColors.kt
+---------------------------------
+Archivo: LimitedInputStreamTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LimitedInputStreamTest.kt
+---------------------------------
+Archivo: PlaybackTestViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/PlaybackTestViewModel.kt
+---------------------------------
+Archivo: MediaDataSourceMediaInput.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MediaDataSourceMediaInput.kt
+---------------------------------
+Archivo: AccountAuthenticatorService.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/AccountAuthenticatorService.kt
+---------------------------------
+Archivo: AndroidMenu.android.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/AndroidMenu.android.kt
+---------------------------------
+Archivo: Menu.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Menu.kt
+---------------------------------
+Archivo: LifecycleDisposable.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LifecycleDisposable.kt
+---------------------------------
+Archivo: AccessCodeChat.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/AccessCodeChat.kt
+---------------------------------
+Archivo: OptionalExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/OptionalExtensions.kt
+---------------------------------
+Archivo: CollectionsExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/CollectionsExtensions.kt
+---------------------------------
+Archivo: TranscoderOptions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscoderOptions.kt
+---------------------------------
+Archivo: BundleExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/BundleExtensions.kt
+---------------------------------
+Archivo: Base64Test.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Base64Test.kt
+---------------------------------
+Archivo: ResettableLazyTests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ResettableLazyTests.kt
+---------------------------------
+Archivo: Theme.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Theme.kt
+---------------------------------
+Archivo: ContactsSyncAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactsSyncAdapter.kt
+---------------------------------
+Archivo: admininterfaceactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/admininterfaceactivity.kt
+---------------------------------
+Archivo: FlowExtensionsTests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/FlowExtensionsTests.kt
+---------------------------------
+Archivo: AsciiArt.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/AsciiArt.kt
+---------------------------------
+Archivo: ScannerView19.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ScannerView19.kt
+---------------------------------
+Archivo: Scaffolds.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Scaffolds.kt
+---------------------------------
+Archivo: TranscodeTestViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscodeTestViewModel.kt
+---------------------------------
+Archivo: Type.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Type.kt
+---------------------------------
+Archivo: MemoryTracker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MemoryTracker.kt
+---------------------------------
+Archivo: ScrubberTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ScrubberTest.kt
+---------------------------------
+Archivo: ExtendedColors.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ExtendedColors.kt
+---------------------------------
+Archivo: Dividers.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Dividers.kt
+---------------------------------
+Archivo: QrScannerView.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/QrScannerView.kt
+---------------------------------
+Archivo: OutputStreamExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/OutputStreamExtensions.kt
+---------------------------------
+Archivo: VideoPostProcessingException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VideoPostProcessingException.kt
+---------------------------------
+Archivo: StaticIpResolver.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StaticIpResolver.kt
+---------------------------------
+Archivo: BillingProduct.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/BillingProduct.kt
+---------------------------------
+Archivo: Icons.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Icons.kt
+---------------------------------
+Archivo: Log.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Log.kt
+---------------------------------
+Archivo: ContactListActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactListActivity.kt
+---------------------------------
+Archivo: Handler.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Handler.kt
+---------------------------------
+Archivo: StringUtilTest_startsWith.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StringUtilTest_startsWith.kt
+---------------------------------
+Archivo: ImageProxyLuminanceSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ImageProxyLuminanceSource.kt
+---------------------------------
+Archivo: InputSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/InputSelection.kt
+---------------------------------
+Archivo: StringExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StringExtensions.kt
+---------------------------------
+Archivo: SelectableRenderer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SelectableRenderer.kt
+---------------------------------
+Archivo: ContactsSyncAdapterService.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactsSyncAdapterService.kt
+---------------------------------
+Archivo: VideoProcessor.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VideoProcessor.kt
+---------------------------------
+Archivo: LocalDataStore.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LocalDataStore.kt
+---------------------------------
+Archivo: DropdownMenus.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DropdownMenus.kt
+---------------------------------
+Archivo: SignalTheme.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SignalTheme.kt
+---------------------------------
+Archivo: ParcelExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ParcelExtensions.kt
+---------------------------------
+Archivo: localDataStore.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/localDataStore.kt
+---------------------------------
+Archivo: TestUtils.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TestUtils.kt
+---------------------------------
+Archivo: DragAndDrop.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DragAndDrop.kt
+---------------------------------
+Archivo: ProtoExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ProtoExtensions.kt
+---------------------------------
+Archivo: speechrecognizeractivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/speechrecognizeractivity.kt
+---------------------------------
+Archivo: SQLiteDatabaseExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SQLiteDatabaseExtensions.kt
+---------------------------------
+Archivo: Serializer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Serializer.kt
+---------------------------------
+Archivo: ConfigurationSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ConfigurationSelection.kt
+---------------------------------
+Archivo: DocumentFileHack.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DocumentFileHack.kt
+---------------------------------
+Archivo: TranscodeTestRepository.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscodeTestRepository.kt
+---------------------------------
+Archivo: DimensionUnitExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DimensionUnitExtensions.kt
+---------------------------------
+Archivo: FontUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/FontUtil.kt
+---------------------------------
+Archivo: BillingApi.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/BillingApi.kt
+---------------------------------
+Archivo: DoubleExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DoubleExtensions.kt
+---------------------------------
+Archivo: QrProcessor.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/QrProcessor.kt
+---------------------------------
+Archivo: InvisibleMode.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/InvisibleMode.kt
+---------------------------------
+Archivo: SlowDataSource.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SlowDataSource.kt
+---------------------------------
+Archivo: Licenses.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Licenses.kt
+---------------------------------
+Archivo: LowPowerMode.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LowPowerMode.kt
+---------------------------------
+Archivo: Buttons.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Buttons.kt
+---------------------------------
+Archivo: DocumentFileInfo.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DocumentFileInfo.kt
+---------------------------------
+Archivo: MediaConverterState.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MediaConverterState.kt
+---------------------------------
+Archivo: NonClosingOutputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/NonClosingOutputStream.kt
+---------------------------------
+Archivo: AnrDetector.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/AnrDetector.kt
+---------------------------------
+Archivo: ContactLookupViewModel.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactLookupViewModel.kt
+---------------------------------
+Archivo: Mp4FaststartPostProcessor.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Mp4FaststartPostProcessor.kt
+---------------------------------
+Archivo: VoiceMessages.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VoiceMessages.kt
+---------------------------------
+Archivo: TranscoderCancelationSignal.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscoderCancelationSignal.kt
+---------------------------------
+Archivo: PUSBEC_YAML_Config.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/PUSBEC_YAML_Config.kt
+---------------------------------
+Archivo: DeviceCapabilities.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DeviceCapabilities.kt
+---------------------------------
+Archivo: DragGestureDetector.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DragGestureDetector.kt
+---------------------------------
+Archivo: StoriesConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StoriesConfig.kt
+---------------------------------
+Archivo: NotificationManager.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/NotificationManager.kt
+---------------------------------
+Archivo: PhoneAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/PhoneAdapter.kt
+---------------------------------
+Archivo: Color.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Color.kt
+---------------------------------
+Archivo: VideoConstants.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VideoConstants.kt
+---------------------------------
+Archivo: backupManager.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/backupManager.kt
+---------------------------------
+Archivo: VideoSourceException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VideoSourceException.kt
+---------------------------------
+Archivo: ScannerView.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ScannerView.kt
+---------------------------------
+Archivo: LimitedWorker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LimitedWorker.kt
+---------------------------------
+Archivo: PlatformCurrencyUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/PlatformCurrencyUtil.kt
+---------------------------------
+Archivo: Factory.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Factory.kt
+---------------------------------
+Archivo: ModifierExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ModifierExtensions.kt
+---------------------------------
+Archivo: NullOutputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/NullOutputStream.kt
+---------------------------------
+Archivo: OutputSelection.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/OutputSelection.kt
+---------------------------------
+Archivo: CompoundLogger.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/CompoundLogger.kt
+---------------------------------
+Archivo: PendingIntentFlags.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/PendingIntentFlags.kt
+---------------------------------
+Archivo: MediaCodecCompat.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MediaCodecCompat.kt
+---------------------------------
+Archivo: MacOutputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MacOutputStream.kt
+---------------------------------
+Archivo: SecureNearbyMessenger.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/SecureNearbyMessenger.java
+---------------------------------
+Archivo: StringExtensions_asListContains.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StringExtensions_asListContains.kt
+---------------------------------
+Archivo: SqlUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SqlUtil.kt
+---------------------------------
+Archivo: DarkPreview.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DarkPreview.kt
+---------------------------------
+Archivo: ToolbarExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ToolbarExtensions.kt
+---------------------------------
+Archivo: FlowExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/FlowExtensions.kt
+---------------------------------
+Archivo: PlaybackTestActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/PlaybackTestActivity.kt
+---------------------------------
+Archivo: TemporaryNotifications.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TemporaryNotifications.kt
+---------------------------------
+Archivo: ContactsAdapter.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactsAdapter.kt
+---------------------------------
+Archivo: Extensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Extensions.kt
+---------------------------------
+Archivo: DeviceTransferModule.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DeviceTransferModule.kt
+---------------------------------
+Archivo: DocumentFileUtil.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DocumentFileUtil.kt
+---------------------------------
+Archivo: CursorExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/CursorExtensions.kt
+---------------------------------
+Archivo: GroupMessaging.kt.txt
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/libbeta/GroupMessaging.kt.txt
+---------------------------------
+Archivo: beta-sample-app.gradle.kts.txt
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/libbeta/beta-sample-app.gradle.kts.txt
+---------------------------------
+Archivo: texto.txt
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/libbeta/texto.txt
+---------------------------------
+Archivo: NotificationManager.kt.txt
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/libbeta/NotificationManager.kt.txt
+---------------------------------
+Archivo: LocalDataStore.kt.txt
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/libbeta/LocalDataStore.kt.txt
+---------------------------------
+Archivo: DeviceTransferModule.kt.txt
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/libbeta/DeviceTransferModule.kt.txt
+---------------------------------
+Archivo: SecureNearbyMessengerAdvanced.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/java/com/example/myapp/features/SecureNearbyMessengerAdvanced.java
+---------------------------------
+Archivo: Stopwatch.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Stopwatch.kt
+---------------------------------
+Archivo: mainactivitylayout.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/mainactivitylayout.kt
+---------------------------------
+Archivo: GroupMessaging.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/GroupMessaging.kt
+---------------------------------
+Archivo: MacInputStream.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MacInputStream.kt
+---------------------------------
+Archivo: MainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MainActivity.kt
+---------------------------------
+Archivo: StringUtilTest_endsWith.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/StringUtilTest_endsWith.kt
+---------------------------------
+Archivo: Base64.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Base64.kt
+---------------------------------
+Archivo: video procesador.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/video procesador.kt
+---------------------------------
+Archivo: TranscodeWorker.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/TranscodeWorker.kt
+---------------------------------
+Archivo: ContactLookupActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ContactLookupActivity.kt
+---------------------------------
+Archivo: Progress.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Progress.kt
+---------------------------------
+Archivo: Texts.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Texts.kt
+---------------------------------
+Archivo: SelectedElementGuideRenderer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SelectedElementGuideRenderer.kt
+---------------------------------
+Archivo: ExampleUnitTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ExampleUnitTest.kt
+---------------------------------
+Archivo: QrMainActivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/QrMainActivity.kt
+---------------------------------
+Archivo: LabeledButton.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LabeledButton.kt
+---------------------------------
+Archivo: ScannerView21.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ScannerView21.kt
+---------------------------------
+Archivo: ByteExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ByteExtensions.kt
+---------------------------------
+Archivo: SignalGlideModule.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SignalGlideModule.kt
+---------------------------------
+Archivo: BillingPurchaseResult.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/BillingPurchaseResult.kt
+---------------------------------
+Archivo: FloatExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/FloatExtensions.kt
+---------------------------------
+Archivo: evaluationactivity.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/evaluationactivity.kt
+---------------------------------
+Archivo: ExampleInstrumentedTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ExampleInstrumentedTest.kt
+---------------------------------
+Archivo: InputStreamExtensionTests.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/InputStreamExtensionTests.kt
+---------------------------------
+Archivo: EventTimer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/EventTimer.kt
+---------------------------------
+Archivo: VideoSizeException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/VideoSizeException.kt
+---------------------------------
+Archivo: TimeLimitedConversations.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/TimeLimitedConversations.kt
+---------------------------------
+Archivo: VoiceInteraction.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/VoiceInteraction.kt
+---------------------------------
+Archivo: AccessCodeChat.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/AccessCodeChat.kt
+---------------------------------
+Archivo: PhotoViewAttacher.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/PhotoViewAttacher.java
+---------------------------------
+Archivo: StringUtilTest_hasMixedTextDirection.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StringUtilTest_hasMixedTextDirection.java
+---------------------------------
+Archivo: ListUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ListUtil.java
+---------------------------------
+Archivo: ColorableRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ColorableRenderer.java
+---------------------------------
+Archivo: EditorElementHierarchy.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/EditorElementHierarchy.java
+---------------------------------
+Archivo: CascadingFuture.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CascadingFuture.java
+---------------------------------
+Archivo: RendererContext.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/RendererContext.java
+---------------------------------
+Archivo: MediaConverter.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/MediaConverter.java
+---------------------------------
+Archivo: Mp4Writer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Mp4Writer.java
+---------------------------------
+Archivo: DrawingSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DrawingSession.java
+---------------------------------
+Archivo: OnMatrixChangedListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnMatrixChangedListener.java
+---------------------------------
+Archivo: CameraSurfaceView.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CameraSurfaceView.java
+---------------------------------
+Archivo: InBoundsMemory.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/InBoundsMemory.java
+---------------------------------
+Archivo: ListenableFuture.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ListenableFuture.java
+---------------------------------
+Archivo: TheAppGlideModule.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/TheAppGlideModule.java
+---------------------------------
+Archivo: MainActivity.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/MainActivity.java
+---------------------------------
+Archivo: VideoTrackConverter.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/VideoTrackConverter.java
+---------------------------------
+Archivo: FutureTransformers.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/FutureTransformers.java
+---------------------------------
+Archivo: StringUtilTest_trim.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StringUtilTest_trim.java
+---------------------------------
+Archivo: OnViewTapListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnViewTapListener.java
+---------------------------------
+Archivo: StringUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StringUtil.java
+---------------------------------
+Archivo: CameraUtils.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CameraUtils.java
+---------------------------------
+Archivo: DeviceTransferServer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DeviceTransferServer.java
+---------------------------------
+Archivo: Muxer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Muxer.java
+---------------------------------
+Archivo: SimpleTask.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SimpleTask.java
+---------------------------------
+Archivo: AndroidMuxer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AndroidMuxer.java
+---------------------------------
+Archivo: LatestPrioritizedSerialExecutor.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/LatestPrioritizedSerialExecutor.java
+---------------------------------
+Archivo: TranscodingException.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/TranscodingException.java
+---------------------------------
+Archivo: ShutdownCallback.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ShutdownCallback.java
+---------------------------------
+Archivo: BreakIteratorCompat.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/BreakIteratorCompat.java
+---------------------------------
+Archivo: BitmaskTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/BitmaskTest.java
+---------------------------------
+Archivo: SqlUtilTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SqlUtilTest.java
+---------------------------------
+Archivo: UrlRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/UrlRenderer.java
+---------------------------------
+Archivo: Hex.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Hex.java
+---------------------------------
+Archivo: Bounds.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Bounds.java
+---------------------------------
+Archivo: ExceptionUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ExceptionUtil.java
+---------------------------------
+Archivo: CharacterIterable.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CharacterIterable.java
+---------------------------------
+Archivo: SignalExecutors.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SignalExecutors.java
+---------------------------------
+Archivo: MapUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/MapUtil.java
+---------------------------------
+Archivo: DimensionUnit.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DimensionUnit.java
+---------------------------------
+Archivo: ScanListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ScanListener.java
+---------------------------------
+Archivo: StickyHeaderGridLayoutManager.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StickyHeaderGridLayoutManager.java
+---------------------------------
+Archivo: SecureNearbyMessengerAdvanced.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SecureNearbyMessengerAdvanced.java
+---------------------------------
+Archivo: EditorModel.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/EditorModel.java
+---------------------------------
+Archivo: CropAreaRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CropAreaRenderer.java
+---------------------------------
+Archivo: UndoRedoStackListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/UndoRedoStackListener.java
+---------------------------------
+Archivo: Util.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Util.java
+---------------------------------
+Archivo: AacTrack.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AacTrack.java
+---------------------------------
+Archivo: StringUtilTest_whitespace_handling.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StringUtilTest_whitespace_handling.java
+---------------------------------
+Archivo: FiatMoney.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/FiatMoney.java
+---------------------------------
+Archivo: OnOutsidePhotoTapListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnOutsidePhotoTapListener.java
+---------------------------------
+Archivo: LatestPrioritizedSerialExecutorTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/LatestPrioritizedSerialExecutorTest.java
+---------------------------------
+Archivo: AutomaticControlPointBezierLine.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AutomaticControlPointBezierLine.java
+---------------------------------
+Archivo: EditorElement.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/EditorElement.java
+---------------------------------
+Archivo: CursorUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CursorUtil.java
+---------------------------------
+Archivo: SelfSignedIdentity.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SelfSignedIdentity.java
+---------------------------------
+Archivo: LinkedBlockingLifoQueue.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/LinkedBlockingLifoQueue.java
+---------------------------------
+Archivo: DeviceTransferAuthentication.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DeviceTransferAuthentication.java
+---------------------------------
+Archivo: ThumbRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ThumbRenderer.java
+---------------------------------
+Archivo: ThreadUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ThreadUtil.java
+---------------------------------
+Archivo: TextureRender.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/TextureRender.java
+---------------------------------
+Archivo: ElementEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ElementEditSession.java
+---------------------------------
+Archivo: ImageEditorView.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ImageEditorView.java
+---------------------------------
+Archivo: ScanningThread.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ScanningThread.java
+---------------------------------
+Archivo: ThumbDragEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ThumbDragEditSession.java
+---------------------------------
+Archivo: AudioTrackConverter.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AudioTrackConverter.java
+---------------------------------
+Archivo: EditTextUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/EditTextUtil.java
+---------------------------------
+Archivo: NetworkServerThread.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/NetworkServerThread.java
+---------------------------------
+Archivo: StandardHitTestRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StandardHitTestRenderer.java
+---------------------------------
+Archivo: BezierDrawingRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/BezierDrawingRenderer.java
+---------------------------------
+Archivo: GraphemeClusterLimitFilter.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/GraphemeClusterLimitFilter.java
+---------------------------------
+Archivo: Renderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Renderer.java
+---------------------------------
+Archivo: StickyHeaderGridAdapter.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StickyHeaderGridAdapter.java
+---------------------------------
+Archivo: StringUtilTest_trimToFit.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StringUtilTest_trimToFit.java
+---------------------------------
+Archivo: MatrixUtils.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/MatrixUtils.java
+---------------------------------
+Archivo: DeviceToDeviceTransferService.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DeviceToDeviceTransferService.java
+---------------------------------
+Archivo: InvalidateableRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/InvalidateableRenderer.java
+---------------------------------
+Archivo: AppUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AppUtil.java
+---------------------------------
+Archivo: ElementDragEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ElementDragEditSession.java
+---------------------------------
+Archivo: IpExchange.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/IpExchange.java
+---------------------------------
+Archivo: OnScaleChangedListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnScaleChangedListener.java
+---------------------------------
+Archivo: CryptoUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CryptoUtil.java
+---------------------------------
+Archivo: PhotoView.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/PhotoView.java
+---------------------------------
+Archivo: Compat.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Compat.java
+---------------------------------
+Archivo: TransferStatus.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/TransferStatus.java
+---------------------------------
+Archivo: DeviceTransferAuthenticationTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DeviceTransferAuthenticationTest.java
+---------------------------------
+Archivo: AlphaAnimation.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AlphaAnimation.java
+---------------------------------
+Archivo: FiatMoneyTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/FiatMoneyTest.java
+---------------------------------
+Archivo: ParcelUtils.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ParcelUtils.java
+---------------------------------
+Archivo: H264Utils.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/H264Utils.java
+---------------------------------
+Archivo: WifiDirectUnavailableException.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/WifiDirectUnavailableException.java
+---------------------------------
+Archivo: OutputSurface.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OutputSurface.java
+---------------------------------
+Archivo: SecureNearbyMessenger.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SecureNearbyMessenger.java
+---------------------------------
+Archivo: Conversions.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Conversions.java
+---------------------------------
+Archivo: TranslationDetection.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/TranslationDetection.java
+---------------------------------
+Archivo: OnViewDragListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnViewDragListener.java
+---------------------------------
+Archivo: HevcTrack.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/HevcTrack.java
+---------------------------------
+Archivo: HiddenEditText.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/HiddenEditText.java
+---------------------------------
+Archivo: StreamingMuxer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StreamingMuxer.java
+---------------------------------
+Archivo: Bisect.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Bisect.java
+---------------------------------
+Archivo: Bitmask.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Bitmask.java
+---------------------------------
+Archivo: QrCameraView.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/QrCameraView.java
+---------------------------------
+Archivo: ClientTask.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ClientTask.java
+---------------------------------
+Archivo: FutureMapTransformer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/FutureMapTransformer.java
+---------------------------------
+Archivo: Utils.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Utils.java
+---------------------------------
+Archivo: OnGestureListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnGestureListener.java
+---------------------------------
+Archivo: EditorFlags.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/EditorFlags.java
+---------------------------------
+Archivo: ServerTask.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ServerTask.java
+---------------------------------
+Archivo: VideoThumbnailsExtractor.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/VideoThumbnailsExtractor.java
+---------------------------------
+Archivo: StreamUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StreamUtil.java
+---------------------------------
+Archivo: SettableFuture.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SettableFuture.java
+---------------------------------
+Archivo: UndoRedoStacks.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/UndoRedoStacks.java
+---------------------------------
+Archivo: ResourceUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ResourceUtil.java
+---------------------------------
+Archivo: ChatActivity.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ChatActivity.java
+---------------------------------
+Archivo: NetworkClientThread.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/NetworkClientThread.java
+---------------------------------
+Archivo: AvcTrack.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AvcTrack.java
+---------------------------------
+Archivo: ElementScaleEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ElementScaleEditSession.java
+---------------------------------
+Archivo: AnimationMatrix.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AnimationMatrix.java
+---------------------------------
+Archivo: DeviceTransferClient.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DeviceTransferClient.java
+---------------------------------
+Archivo: StreamingTranscoder.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StreamingTranscoder.java
+---------------------------------
+Archivo: CanvasMatrix.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CanvasMatrix.java
+---------------------------------
+Archivo: StringUtilTest_abbreviateInMiddle.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/StringUtilTest_abbreviateInMiddle.java
+---------------------------------
+Archivo: InputSurface.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/InputSurface.java
+---------------------------------
+Archivo: OnPhotoTapListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnPhotoTapListener.java
+---------------------------------
+Archivo: ListUtilTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ListUtilTest.java
+---------------------------------
+Archivo: EditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/EditSession.java
+---------------------------------
+Archivo: SetUtil.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/SetUtil.java
+---------------------------------
+Archivo: ElementStack.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ElementStack.java
+---------------------------------
+Archivo: MultiLineTextRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/MultiLineTextRenderer.java
+---------------------------------
+Archivo: MuxingException.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/MuxingException.java
+---------------------------------
+Archivo: DatabaseId.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/DatabaseId.java
+---------------------------------
+Archivo: Base64Tools.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Base64Tools.java
+---------------------------------
+Archivo: OnSingleFlingListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OnSingleFlingListener.java
+---------------------------------
+Archivo: WifiDirect.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/WifiDirect.java
+---------------------------------
+Archivo: BreakIteratorCompatTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/BreakIteratorCompatTest.java
+---------------------------------
+Archivo: FillRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/FillRenderer.java
+---------------------------------
+Archivo: InverseFillRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/InverseFillRenderer.java
+---------------------------------
+Archivo: KeyGenerationFailedException.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/KeyGenerationFailedException.java
+---------------------------------
+Archivo: Tracer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/Tracer.java
+---------------------------------
+Archivo: OvalGuideRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/OvalGuideRenderer.java
+---------------------------------
+Archivo: LogTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/LogTest.java
+---------------------------------
+Archivo: UriRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/UriRenderer.java
+---------------------------------
+Archivo: CustomGestureDetector.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CustomGestureDetector.java
+---------------------------------
+Archivo: FaceBlurRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/FaceBlurRenderer.java
+---------------------------------
+Archivo: CropThumbRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/CropThumbRenderer.java
+---------------------------------
+Archivo: ShakeDetector.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/ShakeDetector.java
+---------------------------------
+Archivo: AndroidLogger.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/AndroidLogger.java
+---------------------------------
+Archivo: WifiDirectTest.java
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/example/app/WifiDirectTest.java
+---------------------------------
+Archivo: InvisibleMode.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/InvisibleMode.kt
+---------------------------------
+Archivo: LowPowerMode.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/LowPowerMode.kt
+---------------------------------
+Archivo: VoiceMessages.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/VoiceMessages.kt
+---------------------------------
+Archivo: TemporaryNotifications.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/com/TemporaryNotifications.kt
+---------------------------------
+Archivo: InputStreamExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/InputStreamExtensions.kt
+---------------------------------
+Archivo: notificationManager.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/notificationManager.kt
+---------------------------------
+Archivo: Result.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Result.kt
+---------------------------------
+Archivo: IconButton.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/IconButton.kt
+---------------------------------
+Archivo: NoopLogger.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/NoopLogger.kt
+---------------------------------
+Archivo: diviceTransferModule.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/diviceTransferModule.kt
+---------------------------------
+Archivo: LintConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/LintConfig.kt
+---------------------------------
+Archivo: EncodingException.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/EncodingException.kt
+---------------------------------
+Archivo: Animations.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/Animations.kt
+---------------------------------
+Archivo: SupportSQLiteQueryExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/SupportSQLiteQueryExtensions.kt
+---------------------------------
+Archivo: DatabaseConfig.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/DatabaseConfig.kt
+---------------------------------
+Archivo: MaybeCompat.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/MaybeCompat.kt
+---------------------------------
+Archivo: RxExtensions.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/RxExtensions.kt
+---------------------------------
+Archivo: ResettableLazy.kt
+Ubicación: ./TeH/android_project_restructured_corrected/java/ResettableLazy.kt
+---------------------------------
+Archivo: devcontainer.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/devcontainer.json
+---------------------------------
+Archivo: contacts.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/contacts.json
+---------------------------------
+Archivo: settings.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/settings.json
+---------------------------------
+Archivo: classifier_assets_metadata.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/classifier_assets_metadata.json
+---------------------------------
+Archivo: package-lock.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/package-lock.json
+---------------------------------
+Archivo: package-lock_luna.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/package-lock_luna.json
+---------------------------------
+Archivo: google-services.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/google-services.json
+---------------------------------
+Archivo: tsconfig.json
+Ubicación: ./TeH/android_project_restructured_corrected/assets/tsconfig.json
+---------------------------------
+Archivo: contacts.json
+Ubicación: ./TeH/android_project_restructured_corrected/sampledata/contacts.json
+---------------------------------
+Archivo: wire-handler-1.0.0.jar
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/wire-handler-1.0.0.jar
+---------------------------------
+Archivo: settings.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/settings.gradle.kts
+---------------------------------
+Archivo: gradlew.bat
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/gradlew.bat
+---------------------------------
+Archivo: gradle
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/gradle
+---------------------------------
+Archivo: gradlew
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/gradlew
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/lib/build.gradle.kts
+---------------------------------
+Archivo: Handler.kt
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/lib/src/main/kotlin/org/signal/wire/Handler.kt
+---------------------------------
+Archivo: Factory.kt
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/lib/src/main/kotlin/org/signal/wire/Factory.kt
+---------------------------------
+Archivo: README.md
+Ubicación: ./TeH/android_project_restructured_corrected/wire-handler/README.md
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/build.gradle
+---------------------------------
+Archivo: proguard-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/proguard-rules.pro
+---------------------------------
+Archivo: ic_launcher_background.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_launcher_background.xml
+---------------------------------
+Archivo: ic_redo_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_redo_black_24dp.xml
+---------------------------------
+Archivo: ic_flip_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_flip_black_24dp.xml
+---------------------------------
+Archivo: ic_save_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_save_black_24dp.xml
+---------------------------------
+Archivo: ic_rotate_right_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_rotate_right_black_24dp.xml
+---------------------------------
+Archivo: ic_rotate_left_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_rotate_left_black_24dp.xml
+---------------------------------
+Archivo: ic_check_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_check_black_24dp.xml
+---------------------------------
+Archivo: ic_undo_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_undo_black_24dp.xml
+---------------------------------
+Archivo: ic_crop_black_24dp.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable/ic_crop_black_24dp.xml
+---------------------------------
+Archivo: strings.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/values/strings.xml
+---------------------------------
+Archivo: themes.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/values/themes.xml
+---------------------------------
+Archivo: colors.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/values/colors.xml
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+---------------------------------
+Archivo: main_activity.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/layout/main_activity.xml
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_launcher_round.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+---------------------------------
+Archivo: ic_launcher.webp
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+---------------------------------
+Archivo: ic_launcher_foreground.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+---------------------------------
+Archivo: action_menu.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/menu/action_menu.xml
+---------------------------------
+Archivo: ic_launcher_round.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+---------------------------------
+Archivo: ic_launcher.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+---------------------------------
+Archivo: TheAppGlideModule.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/java/org/signal/imageeditor/app/TheAppGlideModule.java
+---------------------------------
+Archivo: MainActivity.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/java/org/signal/imageeditor/app/MainActivity.java
+---------------------------------
+Archivo: UrlRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/java/org/signal/imageeditor/app/renderers/UrlRenderer.java
+---------------------------------
+Archivo: StandardHitTestRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/java/org/signal/imageeditor/app/renderers/StandardHitTestRenderer.java
+---------------------------------
+Archivo: UriRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/java/org/signal/imageeditor/app/renderers/UriRenderer.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: ExampleUnitTest.kt
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/app/src/test/java/com/example/imageeditor/app/ExampleUnitTest.kt
+---------------------------------
+Archivo: consumer-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/consumer-rules.pro
+---------------------------------
+Archivo: build.gradle
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/build.gradle
+---------------------------------
+Archivo: proguard-rules.pro
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/proguard-rules.pro
+---------------------------------
+Archivo: styles.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/res/values/styles.xml
+---------------------------------
+Archivo: crop_area_renderer.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/res/values/crop_area_renderer.xml
+---------------------------------
+Archivo: ColorableRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/ColorableRenderer.java
+---------------------------------
+Archivo: RendererContext.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/RendererContext.java
+---------------------------------
+Archivo: DrawingSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/DrawingSession.java
+---------------------------------
+Archivo: Bounds.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/Bounds.java
+---------------------------------
+Archivo: UndoRedoStackListener.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/UndoRedoStackListener.java
+---------------------------------
+Archivo: SelectableRenderer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/SelectableRenderer.kt
+---------------------------------
+Archivo: ElementEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/ElementEditSession.java
+---------------------------------
+Archivo: ImageEditorView.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/ImageEditorView.java
+---------------------------------
+Archivo: ThumbDragEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/ThumbDragEditSession.java
+---------------------------------
+Archivo: Renderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/Renderer.java
+---------------------------------
+Archivo: EditorElementHierarchy.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/EditorElementHierarchy.java
+---------------------------------
+Archivo: InBoundsMemory.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/InBoundsMemory.java
+---------------------------------
+Archivo: EditorModel.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/EditorModel.java
+---------------------------------
+Archivo: EditorElement.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/EditorElement.java
+---------------------------------
+Archivo: ThumbRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/ThumbRenderer.java
+---------------------------------
+Archivo: AlphaAnimation.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/AlphaAnimation.java
+---------------------------------
+Archivo: ParcelUtils.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/ParcelUtils.java
+---------------------------------
+Archivo: Bisect.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/Bisect.java
+---------------------------------
+Archivo: EditorFlags.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/EditorFlags.java
+---------------------------------
+Archivo: UndoRedoStacks.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/UndoRedoStacks.java
+---------------------------------
+Archivo: AnimationMatrix.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/AnimationMatrix.java
+---------------------------------
+Archivo: ElementStack.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/ElementStack.java
+---------------------------------
+Archivo: CropThumbRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/model/CropThumbRenderer.java
+---------------------------------
+Archivo: MatrixUtils.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/MatrixUtils.java
+---------------------------------
+Archivo: ElementDragEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/ElementDragEditSession.java
+---------------------------------
+Archivo: HiddenEditText.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/HiddenEditText.java
+---------------------------------
+Archivo: ElementScaleEditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/ElementScaleEditSession.java
+---------------------------------
+Archivo: CanvasMatrix.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/CanvasMatrix.java
+---------------------------------
+Archivo: EditSession.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/EditSession.java
+---------------------------------
+Archivo: TrashRenderer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/TrashRenderer.kt
+---------------------------------
+Archivo: CropAreaRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/CropAreaRenderer.java
+---------------------------------
+Archivo: AutomaticControlPointBezierLine.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/AutomaticControlPointBezierLine.java
+---------------------------------
+Archivo: BezierDrawingRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/BezierDrawingRenderer.java
+---------------------------------
+Archivo: InvalidateableRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/InvalidateableRenderer.java
+---------------------------------
+Archivo: SelectedElementGuideRenderer.kt
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/SelectedElementGuideRenderer.kt
+---------------------------------
+Archivo: MultiLineTextRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/MultiLineTextRenderer.java
+---------------------------------
+Archivo: FillRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/FillRenderer.java
+---------------------------------
+Archivo: InverseFillRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/InverseFillRenderer.java
+---------------------------------
+Archivo: OvalGuideRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/OvalGuideRenderer.java
+---------------------------------
+Archivo: FaceBlurRenderer.java
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/java/org/signal/imageeditor/core/renderers/FaceBlurRenderer.java
+---------------------------------
+Archivo: AndroidManifest.xml
+Ubicación: ./TeH/android_project_restructured_corrected/image-editor/lib/src/main/AndroidManifest.xml
+---------------------------------
+Archivo: pkcs11.config
+Ubicación: ./TeH/android_project_restructured_corrected/pkcs11.config
+---------------------------------
+Archivo: gradle-wrapper.properties
+Ubicación: ./TeH/android_project_restructured_corrected/wrapper/gradle-wrapper.properties
+---------------------------------
+Archivo: constants.gradle.kts
+Ubicación: ./TeH/android_project_restructured_corrected/constants.gradle.kts
+---------------------------------
+Archivo: config
+Ubicación: ./.git/config
+---------------------------------
+Archivo: pack-ec4fe67bf597e12ab6d09670a15b383a8c8a5204.rev
+Ubicación: ./.git/objects/pack/pack-ec4fe67bf597e12ab6d09670a15b383a8c8a5204.rev
+---------------------------------
+Archivo: pack-ec4fe67bf597e12ab6d09670a15b383a8c8a5204.idx
+Ubicación: ./.git/objects/pack/pack-ec4fe67bf597e12ab6d09670a15b383a8c8a5204.idx
+---------------------------------
+Archivo: pack-ec4fe67bf597e12ab6d09670a15b383a8c8a5204.pack
+Ubicación: ./.git/objects/pack/pack-ec4fe67bf597e12ab6d09670a15b383a8c8a5204.pack
+---------------------------------
+Archivo: sendemail-validate.sample
+Ubicación: ./.git/hooks/sendemail-validate.sample
+---------------------------------
+Archivo: post-update.sample
+Ubicación: ./.git/hooks/post-update.sample
+---------------------------------
+Archivo: pre-push.sample
+Ubicación: ./.git/hooks/pre-push.sample
+---------------------------------
+Archivo: update.sample
+Ubicación: ./.git/hooks/update.sample
+---------------------------------
+Archivo: pre-receive.sample
+Ubicación: ./.git/hooks/pre-receive.sample
+---------------------------------
+Archivo: pre-rebase.sample
+Ubicación: ./.git/hooks/pre-rebase.sample
+---------------------------------
+Archivo: push-to-checkout.sample
+Ubicación: ./.git/hooks/push-to-checkout.sample
+---------------------------------
+Archivo: applypatch-msg.sample
+Ubicación: ./.git/hooks/applypatch-msg.sample
+---------------------------------
+Archivo: commit-msg.sample
+Ubicación: ./.git/hooks/commit-msg.sample
+---------------------------------
+Archivo: pre-commit.sample
+Ubicación: ./.git/hooks/pre-commit.sample
+---------------------------------
+Archivo: prepare-commit-msg.sample
+Ubicación: ./.git/hooks/prepare-commit-msg.sample
+---------------------------------
+Archivo: pre-applypatch.sample
+Ubicación: ./.git/hooks/pre-applypatch.sample
+---------------------------------
+Archivo: fsmonitor-watchman.sample
+Ubicación: ./.git/hooks/fsmonitor-watchman.sample
+---------------------------------
+Archivo: pre-merge-commit.sample
+Ubicación: ./.git/hooks/pre-merge-commit.sample
+---------------------------------
+Archivo: index
+Ubicación: ./.git/index
+---------------------------------
+Archivo: packed-refs
+Ubicación: ./.git/packed-refs
+---------------------------------
+Archivo: main
+Ubicación: ./.git/refs/heads/main
+---------------------------------
+Archivo: HEAD
+Ubicación: ./.git/refs/remotes/origin/HEAD
+---------------------------------
+Archivo: HEAD
+Ubicación: ./.git/HEAD
+---------------------------------
+Archivo: FETCH_HEAD
+Ubicación: ./.git/FETCH_HEAD
+---------------------------------
+Archivo: main
+Ubicación: ./.git/logs/refs/heads/main
+---------------------------------
+Archivo: HEAD
+Ubicación: ./.git/logs/refs/remotes/origin/HEAD
+---------------------------------
+Archivo: HEAD
+Ubicación: ./.git/logs/HEAD
+---------------------------------
+Archivo: description
+Ubicación: ./.git/description
+---------------------------------
+Archivo: exclude
+Ubicación: ./.git/info/exclude
+---------------------------------
+Archivo: build.gradle.kts
+Ubicación: ./build.gradle.kts
+---------------------------------
