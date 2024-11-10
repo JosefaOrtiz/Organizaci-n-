@@ -1,46 +1,63 @@
-#!/bin/bash
+ Directorio donde están ubicados los archivos resultado_tequis.txt
+input_directory="/ruta/al/directorio/de/tequis"
+output_file="organized_index.txt"
 
-# Archivo de entrada y salida
-input_file="indice_completo.txt"
-output_file="indice_organizado.txt"
+# Buscar archivos resultado_tequis*.txt y aplicar permisos si es necesario
+find "$input_directory" -name "resultado_tequis*.txt" -exec chmod +r {} \;
 
-# Limpia el archivo de salida antes de comenzar
+# Limpiar el archivo de salida si ya existe
 > "$output_file"
 
-# Función para escribir encabezados de módulos
-write_module_header() {
-    echo -e "\n## Módulo: $1\n" >> "$output_file"
+# Función para escribir encabezados de módulos y bloques en el archivo de salida
+write_header() {
+    echo -e "\n## $1\n" >> "$output_file"
 }
 
-# Función para escribir dependencias en bloques específicos
-write_dependency() {
-    echo "- $1" >> "$output_file"
-}
+# Procesa cada archivo resultado_tequis*.txt en el directorio de entrada
+for file in "$input_directory"/resultado_tequis*.txt; do
+    # Agrega al archivo de salida el nombre del archivo que se está procesando
+    echo "Procesando archivo: $file" >> "$output_file"
+    echo "-------------------------------------" >> "$output_file"
+    
+    # Variables para el seguimiento de módulos y bloques
+    current_module=""
+    current_block=""
 
-# Organiza las dependencias en módulos y bloques
-while IFS= read -r line; do
-    case "$line" in
-        *appcompat*) write_module_header "Interfaz de Usuario y Componentes Visuales"
-                     write_dependency "$line" ;;
-        *okhttp*|*retrofit*|*gson*) write_module_header "Comunicación y Red"
-                                     write_dependency "$line" ;;
-        *tensorflow*|*mlkit*) write_module_header "IA y Machine Learning"
-                              write_dependency "$line" ;;
-        *firebase-auth*|*security-crypto*|*conscrypt*) write_module_header "Autenticación y Seguridad"
-                                                      write_dependency "$line" ;;
-        *room*|*firestore*|*datastore*) write_module_header "Persistencia y Almacenamiento"
-                                        write_dependency "$line" ;;
-        *firebase-messaging*|*firebase-analytics*) write_module_header "Notificaciones y Mensajería"
-                                                   write_dependency "$line" ;;
-        *lifecycle*|*navigation*) write_module_header "Navegación y Ciclo de Vida"
-                                  write_dependency "$line" ;;
-        *timber*|*coil*|*glide*) write_module_header "Utilidades"
-                                 write_dependency "$line" ;;
-        *play-services*) write_module_header "Servicios de Google"
-                        write_dependency "$line" ;;
-        *) write_module_header "Otros"
-           write_dependency "$line" ;;
-    esac
-done < "$input_file"
+    # Lee cada línea del archivo
+    while IFS= read -r line; do
+        # Detecta el inicio de un nuevo módulo (ajusta el patrón según el formato)
+        if [[ "$line" =~ "Módulo:" ]]; then
+            current_module=$(echo "$line" | sed 's/Módulo: //')
+            write_header "Módulo: $current_module"
+        
+        # Detecta el inicio de un nuevo bloque dentro de un módulo
+        elif [[ "$line" =~ "Bloque:" ]]; then
+            current_block=$(echo "$line" | sed 's/Bloque: //')
+            write_header "Bloque: $current_block"
+        
+        # Detecta dependencias y las organiza bajo el módulo y bloque actual
+        elif [[ "$line" =~ "Dependencia:" ]]; then
+            dependency=$(echo "$line" | sed 's/Dependencia: //')
+            echo "- $dependency" >> "$output_file"
+        
+        # Organiza funciones específicas si están indicadas
+        elif [[ "$line" =~ "Función:" ]]; then
+            function_desc=$(echo "$line" | sed 's/Función: //')
+            echo "  * Función: $function_desc" >> "$output_file"
+        
+        # Agrega otros detalles de archivos o ubicaciones como sub-puntos
+        elif [[ "$line" =~ "Archivo:" || "$line" =~ "Ubicación:" ]]; then
+            echo "  - $line" >> "$output_file"
+        
+        fi
+    done < "$file"
+    
+    # Línea en blanco para separar el contenido de cada archivo
+    echo "" >> "$output_file"
+done
 
-echo "Dependencias organizadas en $output_file"
+# Mensaje de confirmación al finalizar
+echo "Las dependencias han sido organizadas en $output_file"
+
+# Otorga permisos de lectura y escritura al archivo de salida
+chmod +rw "$output_file"
